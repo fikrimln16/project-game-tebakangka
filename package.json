@@ -1,0 +1,27 @@
+{
+  "name": "project-game",
+  "version": "1.0.0",
+  "description": "project game sederhana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fikrimln16/project-game.git"
+  },
+  "keywords": [
+    "javascript",
+    "games"
+  ],
+  "author": "fikrimln16",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fikrimln16/project-game/issues"
+  },
+  "homepage": "https://github.com/fikrimln16/project-game#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
